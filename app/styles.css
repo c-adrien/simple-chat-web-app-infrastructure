@@ -1,0 +1,18 @@
+body {
+    background-color: #f8f9fa;
+}
+
+h1 {
+    color: #343a40;
+}
+
+#response {
+    margin-top: 20px;
+}
+
+.loader {
+    font-size: 1.2em;
+    color: #007bff;
+    /* Bootstrap primary color */
+    margin-top: 10px;
+}
