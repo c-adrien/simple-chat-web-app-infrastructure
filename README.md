@@ -23,8 +23,8 @@ This project is a simple chat web application that allows users to send and view
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/c-adrien/simple-chat-web-app.git
-   cd simple-chat-web-app
+   git clone https://github.com/c-adrien/simple-chat-web-app-infrastructure.git
+   cd simple-chat-web-app-infrastructure
    ```
 
 2. **Set environment variables:**
